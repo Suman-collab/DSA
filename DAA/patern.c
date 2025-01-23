@@ -1,3 +1,4 @@
+//recursive way to print a pattern
 #include<stdio.h>
 int row=0;
 int printstar(int n,int row){
